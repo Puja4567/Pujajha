@@ -41,7 +41,6 @@ mdurl==0.1.2
 mistune==3.0.1
 murmurhash==1.0.9
 nbclassic==1.0.0
-nbclient==0.8.0ma
 nbconvert==7.6.0
 nbformat==5.9.1
 nest-asyncio==1.5.6
